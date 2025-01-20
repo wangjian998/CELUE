@@ -16,7 +16,7 @@
     "iptvSourceCacheTime": 0,
     "iptvSourceCurrent": {
       "name": "ㅤ",
-      "url": "/data/user/0/top.yogiczy.slcs.tv/files/iptv_source_local_1736075965419.txt",
+      "url": "http://192.168.31.3:35455/tv.m3u",
       "isLocal": true,
       "transformJs": null
     },
@@ -24,7 +24,7 @@
       "value": [
         {
           "name": "ㅤ",
-          "url": "/data/user/0/top.yogiczy.slcs.tv/files/iptv_source_local_1736075965419.txt",
+          "url": "http://192.168.31.3:35455/tv.m3u",
           "isLocal": true,
           "transformJs": null
         }
